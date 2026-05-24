@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/server.png" alt="Warthawg Gaming Server Banner">
+</p>
+
 # Warthawg Gaming Server
 
 Minecraft Java server setup, configuration, plugins, permissions, scripts, and development resources for Warthawg Gaming.
